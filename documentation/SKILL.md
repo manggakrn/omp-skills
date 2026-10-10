@@ -1,3 +1,8 @@
+---
+name: documentation
+description: Standar dokumentasi otomatis dengan changelog dan visualisasi arsitektur
+---
+
 # Standar Dokumentasi Otomatis
 
 Sebagai AI Partner IT, tugas mendokumentasikan pekerjaan adalah tanggung jawab asisten agar pengguna (IT Profesional) bisa fokus pada strategi.

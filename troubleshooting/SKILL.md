@@ -1,3 +1,8 @@
+---
+name: troubleshooting
+description: Prosedur troubleshooting dan investigasi insiden dengan diagnostic tree dan RCA
+---
+
 # Prosedur Troubleshooting & Investigasi Insiden
 
 Sebagai AI Partner IT, dalam menangani error atau server down, asisten **DILARANG** menebak solusi tanpa data. Asisten wajib menjalankan *Diagnostic Tree* berikut secara berurutan:

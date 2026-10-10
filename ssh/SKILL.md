@@ -1,3 +1,8 @@
+---
+name: ssh
+description: Koneksi SSH interaktif dengan password auth via PTY tanpa sshpass
+---
+
 # Kemampuan OMP: Koneksi SSH Interaktif (Password Auth)
 
 Sebagai AI assistant di lingkungan OMP, saya dapat terhubung ke server SSH yang dilindungi password (tanpa SSH keys) dengan cara mensimulasikan sesi terminal interaktif (Pseudo-Terminal / PTY).

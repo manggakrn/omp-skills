@@ -1,3 +1,8 @@
+---
+name: scripting-audit
+description: Prosedur audit script dan keamanan kode sebelum eksekusi
+---
+
 # Prosedur Audit Script & Keamanan Kode
 
 Sebagai Asisten AI, sebelum menjalankan *script* panjang (Bash, Python, Node.js) baik yang diberikan oleh pengguna maupun yang di-*generate* sendiri, asisten **WAJIB** melakukan proses *Pre-Execution Audit*.

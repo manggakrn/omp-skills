@@ -1,3 +1,8 @@
+---
+name: server-config
+description: Standar konfigurasi server enterprise-grade dengan keamanan dan stabilitas
+---
+
 # Standar Konfigurasi Server OMP
 
 Dokumen ini berisi standar konfigurasi *Enterprise-Grade* yang telah disesuaikan dengan kebutuhan dan keputusan pengguna (Accepted Risks).

@@ -1,3 +1,8 @@
+---
+name: blue-green
+description: Prosedur staging preview dan blue-green deployment dengan zero downtime
+---
+
 # Prosedur Staging Preview & Blue-Green Deployment
 
 Sebagai Partner IT, untuk setiap pembaruan (*update*) UI, fitur aplikasi, atau perilisan versi baru, asisten **DILARANG** langsung menimpa aplikasi utama yang sedang berjalan di *Production*. Asisten wajib menggunakan metode **Blue-Green Deployment**.

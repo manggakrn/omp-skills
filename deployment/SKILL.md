@@ -1,3 +1,8 @@
+---
+name: deployment
+description: Prosedur eksekusi, deploy & modifikasi aman dengan analisis risiko dan rollback
+---
+
 # Kemampuan & Protokol OMP: Prosedur Eksekusi, Deploy & Modifikasi Aman (Enterprise Grade)
 
 Sesuai dengan standar industri *Senior Engineer* dan instruksi pengguna, setiap permintaan eksekusi di server WAJIB mematuhi alur kerja berikut:
